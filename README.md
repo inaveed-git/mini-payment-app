@@ -148,10 +148,6 @@ npm run dev
 ### Signin Page
 ![Signin Screenshot](screenshots/signin.png)
 
-```
-
-
-
 ---
 
 ## **6️⃣ License**
