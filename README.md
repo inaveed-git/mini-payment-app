@@ -134,21 +134,19 @@ npm run dev
 
 ---
 
-## **5️⃣ Screenshots**
-
-You can add screenshots here to showcase your app. Use Markdown like this:
-
-```markdown
+## Screenshots
 
 ### Dashboard
-![Dashboard Screenshot](screenshots/1.png)
+![Dashboard Screenshot](screenshots/dashboard.png)
 
 ### Transfer Funds
-![Transfer Screenshot](screenshots/1.1.png)
+![Transfer Screenshot](screenshots/transfer.png)
 
-### Login Page
-![Signup Screenshot](screenshots/2.png)
-![Signin Screenshot](screenshots/3.png)
+### Signup Page
+![Signup Screenshot](screenshots/signup.png)
+
+### Signin Page
+![Signin Screenshot](screenshots/signin.png)
 
 ```
 
